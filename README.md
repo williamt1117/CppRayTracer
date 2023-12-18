@@ -47,6 +47,7 @@ The program successfully implements the following:
 The program has one undiagnosed error that appears when mass amounts of objects are rendered that causes black noise to appear on occasional distant objects, as shown below.
 
 ![visualArtifact](https://github.com/williamt1117/CppRayTracer/assets/92940760/ef536bb2-fd42-49d5-8e27-cb8c132e7cb8)
+
 [Figure 1] Black Noise Visual Artifact
 
 
